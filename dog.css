@@ -1,0 +1,78 @@
+body{
+	background-image: url("img/Background.jpg");
+	
+}
+.customdiv{
+	margin-bottom: 0px;
+	min-height: 100px;
+
+	border-style: solid;
+	border-width: 2px;
+	background-repeat: no-repeat;
+	border-color: gray;
+	text-align: center;
+	font-size: large;
+}
+.Gridview{
+	margin-top: 0px;
+	margin-bottom: 3px;
+	min-height: 30px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	font-size: large;	
+	float: left;
+}
+.studentlogin{
+	margin-top: 0px;
+	margin-bottom: 3px;
+	min-height: 190px;
+	background-color: silver;
+	text-align: center;
+	font-size: large;	
+	padding: 8px;	
+}
+.picture{
+	margin:3px;
+	min-height: 460px;
+	background-color: silver;
+	text-align: center;
+	font-size: large;		
+}
+
+li{
+	text-align: center;
+	display: inline;
+	border-style: solid;
+    border-width: 2px;
+
+
+}
+li.a{
+	padding-right: 47px;
+	padding-left: 47px;
+}
+.studentlogin{
+	margin-bottom: 30px;
+	border-top:8px solid green;
+	color: green;
+	font-weight: bold;
+}
+.row{
+	border-color: gray;
+	border-width: 2px;
+}
+.picture
+{
+	background-image: url("img/two.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+form{
+	padding:8px;
+}
+p.buttom{
+	color: black;
+	text-align: unset;
+}
